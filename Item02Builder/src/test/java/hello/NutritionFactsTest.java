@@ -1,12 +1,14 @@
 package hello;
 
-public class Application {
+import org.junit.Test;
 
-	public static void main(String[] args) {
+public class NutritionFactsTest {
+
+	@Test
+	public void test() {
 		NutritionFacts cocaCola = new NutritionFacts.Builder(240, 8).
 				  calories(100).sodium(35).carbohydrate(27).build();
 		System.out.println(cocaCola);
-
 	}
 
 }
