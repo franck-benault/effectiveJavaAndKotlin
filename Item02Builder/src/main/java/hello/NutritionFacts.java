@@ -10,7 +10,13 @@ public class NutritionFacts {
 	private final int sodium;		//optional
 	private final int carbohydrate;	//optional
 	
-    public static class Builder {
+    @Override
+	public String toString() {
+		return "NutritionFacts [servingSize=" + servingSize + ", servings=" + servings + ", calories=" + calories
+				+ ", fat=" + fat + ", sodium=" + sodium + ", carbohydrate=" + carbohydrate + "]";
+	}
+
+	public static class Builder {
         // Required parameters
         private final int servingSize;
         private final int servings;
