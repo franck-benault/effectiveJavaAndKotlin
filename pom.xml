@@ -31,5 +31,7 @@
 	<modules>
 		<module>Item02Builder</module>
 		<module>Item02Builderkt</module>
+		<module>item03Singleton</module>
+		<module>item03Singletonkt</module>
 	</modules>
 </project>
