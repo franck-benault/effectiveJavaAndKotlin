@@ -30,5 +30,6 @@
 	</build>
 	<modules>
 		<module>Item02Builder</module>
+		<module>Item02Builderkt</module>
 	</modules>
 </project>
