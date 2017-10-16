@@ -35,5 +35,7 @@
 		<module>item03Singletonkt</module>
 		<module>item04UtilityClassesPrivateConstructor</module>
 		<module>item04UtilityClassesPrivateConstructorkt</module>
+		<module>item05AvoidCreatingUnnecessaryObjects</module>
+		<module>item05AvoidCreatingUnnecessaryObjectskt</module>
 	</modules>
 </project>
