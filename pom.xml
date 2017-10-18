@@ -37,5 +37,7 @@
 		<module>item04UtilityClassesPrivateConstructorkt</module>
 		<module>item05AvoidCreatingUnnecessaryObjects</module>
 		<module>item05AvoidCreatingUnnecessaryObjectskt</module>
+		<module>item16favorCompositionOverInheritance</module>
+		<module>item16favorCompositionOverInheritancekt</module>
 	</modules>
 </project>
